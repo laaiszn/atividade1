@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "main": "index.js",
     "dependencies": {
+        "@types/node": "^22.13.4",
         "csstype": "^2.6.21",
         "free-style": "^2.5.1",
         "prompt-sync": "^4.2.0",
-        "typescript": "^2.9.2",
         "typescript-require": "^0.3.0",
         "typestyle": "^1.5.1"
     },
@@ -14,10 +14,20 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "",
+    "author": "Lais Zanqueta",
     "license": "ISC",
     "devDependencies": {
-        "typerscript": "^0.2.3"
+        "typerscript": "^0.2.3",
+        "typescript": "^5.7.3"
     },
-    "description": ""
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/laaiszn/atividade1.git"
+    },
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/laaiszn/atividade1/issues"
+    },
+    "homepage": "https://github.com/laaiszn/atividade1#readme"
 }
